@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartHeater</string>
+    <string name="currentTemp">Current Temperature</string>
+</resources>
